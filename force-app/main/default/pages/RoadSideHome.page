@@ -1,0 +1,33 @@
+<apex:page sidebar="false" showHeader="false" showQuickActionVfHeader="false" docType="html-5.0" standardStylesheets="false">
+	<html>
+        <head>
+            <meta charset="utf-8"/>
+            <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+            <meta name="viewport" content="width=device-width, initial-scale=1"/>
+            <meta name="description" content=""/>
+            <meta name="author" content="Elmer Duron"/>
+            <title>Road Side Restobar</title>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css"/>
+            <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous"/>
+
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+            <style>
+                .Home {
+                    position: absolute;
+                    top: 50%;
+                    left: 50%;
+                    transform: translate(-50%, -50%);
+                }
+            </style>
+            <script>
+                
+            </script>
+        </head>
+
+        <body>
+			<h1 class="Home">
+                Welcome Road Side Restobar
+            </h1>
+        </body>
+    </html>
+</apex:page>
